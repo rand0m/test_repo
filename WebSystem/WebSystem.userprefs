@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSystem/Desplegar.aspx.cs" ctype="Workbench">
+    <Files>
+      <File FileName="WebSystem/Default.aspx" Line="11" Column="38" />
+      <File FileName="WebSystem/Desplegar.aspx" Line="1" Column="1" />
+      <File FileName="WebSystem/Desplegar.aspx.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="WebSystem" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Altas.aspx" expanded="True" />
+            <Node name="Bajas.aspx" expanded="True" />
+            <Node name="Busqueda.aspx" expanded="True" />
+            <Node name="Desplegar.aspx" expanded="True">
+              <Node name="Desplegar.aspx.cs" selected="True" />
+            </Node>
+            <Node name="Modificaciones.aspx" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+</Properties>

@@ -35,51 +35,8 @@ include("config.php");
                      <form name="f_alta" method='POST' action="insertar.php">
                        <strong>Empresa</strong><br />
                             <select name='empresa'>
-                                <option>---Selecciona---</option>
-                                <option>Tratados Integrales</option>
-				<option>Tyco Hermosillo</option>
-                                <option>Estrategias de Comercio Exterior</option>
-                                <option>Naps</option>
-                                <option>Pioneer Speakers</option>
-                                <option>Schneider Tijuana</option>
-                                <option>Schneider Tlaxcala</option>
-                                <option>Schneider Monterrey</option>
-                                <option>Sharp Electronica México</option>
-                                <option>Sperian Protection Hearing </option>
-                                <option>Seacon Global Production</option>
-                                <option>BII de Mexico</option>
-                                <option>CB Produce S.A. DE. C.V.</option>
-                                <option>Estrella Mexicana </option>
-                                <option>Industrias Hunter </option>
-                                <option>RBC de Mexico</option>
-                                <option>Rogers Foam Tijuana</option>
-                                <option>Switch Luz</option>
-                                <option>CAM Plastic de Mexico</option>
-                                <option>Crydom (Custom Sensors Technologies)</option>
-                                <option>Potter &amp; Brumfield de Mexico</option>
-                                <option>ALP lighting Components de Mexico </option>
-                                <option>Beachmold de Mexico</option>
-                                <option>Delta Electronics de Mexico</option>
-                                <option>Ensambladora Altecsa </option>
-                                <option>Instrumentos Musicales Fender</option>
-                                <option>Power Sonic</option>
-                                <option>Sanford </option>
-                                <option>Visionaire Lighting </option>
-                                <option>Volex de Mexico </option>
-                                <option>Schneider Mty R&amp;D </option>
-                                <option>Eletronica Lowrance de Mexico</option>
-                                <option>Harvard California</option>
-                                <option>Offshore </option>
-                                <option>Camex Toyota</option>
-                                <option>Dulces Famosos de Mexico</option>
-                                <option>Elevadores Internacionales</option>
-                                <option>Enligth Tijuana </option>
-                                <option>Free Trade Co. </option>
-                                <option>Kent Landsberg</option>
-                                <option>Grupo Logistico Mexicano</option>
-                                <option>Honeywell Productos Automotrices</option>
-                                <option>Ademco de juarez (HONEYWELL)</option>
-                                <option>Industrias Kojo</option>
+                                <option>Angel xxx </option>
+                                <option>Industrias Random</option>
                             </select>
                         <br>
 

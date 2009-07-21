@@ -1,0 +1,72 @@
+/* 
+Document   : estilo
+Created on : Jul 21, 2009, 11:40:49 AM
+Author     : Angel Rodriguez
+Description: CSS para sistemas
+*/
+
+
+root { 
+    display: block;
+}
+
+body {
+    background-image: url('img/punto.jpg');
+}
+
+#menu {
+    background-color: white;
+    margin-bottom: 5px;
+    font-family: arial;
+    width: 270px;
+    height: 30px;
+    text-align: center;
+}
+
+
+#areatotal {
+    background-color: white;
+    height: 400px;
+    width: 700px;
+    margin: auto;
+    padding-top: 70px;
+  }
+
+#areasecundaria {
+    background-color: gray;
+    margin-bottom: 20px;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+#fecha {
+    float:right;
+    text-align:right;
+    font-family: arial;
+    }
+
+a:visited{
+    text-decoration:none;
+    color: black;
+
+}
+
+a:link {
+    text-decoration:none;
+    color: gray;
+}
+
+a:hover {
+    text-decoration:none;
+    color:silver;
+}
+
+
+.font {
+    color: black;
+    font-family: arial;
+    font-size: 20px;
+
+}

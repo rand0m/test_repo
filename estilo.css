@@ -1,0 +1,70 @@
+/* 
+Document   : StyleSheet
+Created on : Jul 13, 2009, 8:18:33 PM
+Author     : administrador
+Description:
+Purpose of the stylesheet follows.
+*/
+
+
+root { 
+    display: block;
+}
+
+body{
+    background-color: black;
+    font-family: Arial;
+}
+
+#AreaTotal{
+    width: 995px;
+    height: 1230px;
+    margin-top:18px;
+    background-color: gray;
+}
+
+#Banner{
+    height:90px;
+    width:728px;
+    text-align:center;
+
+}
+
+#Menu{
+    height:20px;
+    width:728px;
+    background-color: white;
+}
+
+#Contenido{
+    height:1100px;
+    width:728px;
+    background-color:white;
+    font-family: Arial;
+}
+
+.FondoMenuCelda{
+    font-size: 10px;
+    color: white;
+    font-family: Tahoma;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    background-image: url('img/altas.png');
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    font-size: 15px;
+    text-decoration: none;
+}

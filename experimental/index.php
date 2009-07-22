@@ -86,13 +86,10 @@ session_unset();
     }
     // close connection
     mysql_close();
+    
+
     ?>
-     <br>
-                <center>
-                    <form action="index.php" method="post">
-                        <input type="submit" name="regresar" value="Regresar">
-                    </form>
-                </center>
+
 
 </body>
 </html>

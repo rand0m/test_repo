@@ -82,7 +82,7 @@ session_unset();
 
         echo "El DAQ: ".$DAQ."<br />";
         echo "Ha sido configurado. <br />";
-        echo "<a href='index.php'>Regresar</a>";?>
+        ?>
 
         <center>
             <form action="index.php" method="post">

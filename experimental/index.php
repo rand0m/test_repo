@@ -78,18 +78,25 @@ session_unset();
     {
         // If empty, insert a row of information into the table "Dispositivos"
         mysql_query("INSERT INTO Dispositivos(Nombre_DAQ, IP_URL, Fecha, Master, Status)
-    VALUES('DAQ1', '$DAQ', '$Fecha', 1, 1)") or die (mysql_error());
+            VALUES('DAQ1', '$DAQ', '$Fecha', 1, 1)") or die (mysql_error());
 
         echo "El DAQ: ".$DAQ."<br />";
         echo "Ha sido configurado. <br />";
-        echo "<a href='index.php'>Regresar</a>";
+        echo "<a href='index.php'>Regresar</a>";?>
+
+        <center>
+            <form action="index.php" method="post">
+                <input type="submit" name="regresar" value="Regresar">
+            </form>
+        </center>
+
+
+        <?php
     }
     // close connection
     mysql_close();
-    
-
     ?>
 
 
-</body>
+    </body>
 </html>
